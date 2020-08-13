@@ -1,0 +1,27 @@
+[11-Apr-2016 11:57:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:10 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:17 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:21 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:26 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:36 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[11-Apr-2016 11:57:41 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home3/livetips/public_html/livetipsin/t.class.php on line 7
+[12-Apr-2016 17:24:28 Asia/Kolkata] PHP Warning:  mysql_connect(): User livetips already has more than 'max_user_connections' active connections in /home3/livetips/public_html/livetipsin/android/db.class.php on line 51
+[12-Apr-2016 17:24:39 Asia/Kolkata] PHP Warning:  mysql_connect(): User livetips already has more than 'max_user_connections' active connections in /home3/livetips/public_html/livetipsin/android/db.class.php on line 51
+[13-Apr-2016 04:03:03 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/livetips/public_html/livetipsin/t.class.php on line 222
+[13-Apr-2016 15:34:22 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:34:42 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:35:00 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:35:47 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:37:07 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:38:35 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:46:55 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:50:40 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:52:59 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:54:57 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:57:10 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:57:28 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:58:44 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 15:59:23 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 16:00:21 Asia/Kolkata] PHP Fatal error:  Call to a member function generateSession() on a non-object in /home3/livetips/public_html/livetipsin/t.class.php on line 1048
+[13-Apr-2016 19:14:21 Asia/Kolkata] PHP Warning:  mysql_connect(): User livetips already has more than 'max_user_connections' active connections in /home3/livetips/public_html/livetipsin/android/db.class.php on line 51
